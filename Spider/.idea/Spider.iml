@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/tutorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wxaoo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wxapp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fang" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/paoshuba" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/renren_login" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/useragent_demo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jianshu_spider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/biquge" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="Twisted Trial" />
+    <option name="PROJECT_TEST_RUNNER" value="Twisted Trial" />
+  </component>
+</module>
