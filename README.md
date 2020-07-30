@@ -1,2 +1,2 @@
-# gitstudy
-啦啦啦
+# python
+...
